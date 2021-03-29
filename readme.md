@@ -104,6 +104,9 @@ Modify the `Soldier` class and add 2 methods to it: `attack()`, and `receiveDama
 - should receive the **`health` property** as its **1st argument**
 - should receive the **`strength` property** as its **2nd argument**
 
+
+
+
 #### `attack()` method
 
 - should be a function
